@@ -1,75 +1,27 @@
-<div align="center">
+# 💫 About Me:
+Working with Go, Laravel, and Flutter to create web, mobile, and streaming platforms. Always exploring new tech and solving real-world problems
 
-```
-███╗   ██╗ █████╗ ██████╗ ██╗███╗   ██╗
-████╗  ██║██╔══██╗██╔══██╗██║████╗  ██║
-██╔██╗ ██║███████║██████╔╝██║██╔██╗ ██║
-██║╚██╗██║██╔══██║██╔══██╗██║██║╚██╗██║
-██║ ╚████║██║  ██║██████╔╝██║██║ ╚████║
-╚═╝  ╚═══╝╚═╝  ╚═╝╚═════╝ ╚═╝╚═╝  ╚═══╝
-```
 
-### `< building things quietly />`
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Nabin Ghimire) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nabin.ghimire01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Nabin Ghimire) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nabinghimire002@gmail.com) 
 
-*Developer from Kathmandu, Nepal 🏔️*
+# 💻 Tech Stack:
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=NabinGhimire0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=NabinGhimire0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NabinGhimire0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NabinGhimire0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Nabinghimire0-181717?style=flat-square&logo=github)](https://github.com/Nabinghimire0)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=Nabinghimire0&style=flat-square&color=6366f1&label=visitors)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-</div>
-
----
-
-## About
-
-Hey — I'm Nabin. I write code, break things, and occasionally fix them.  
-Currently setting up new projects and getting back into the rhythm of building.
-
-Right now I'm focused on:
-- 🌱 &nbsp;Leveling up my development skills
-- 🚀 &nbsp;Working on a new web project (coming soon)
-- 🔍 &nbsp;Exploring what I want to build next
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NabinGhimire0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=NabinGhimire0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Stack
-
-```yaml
-languages:   [ working on it... ]
-frontend:    [ HTML, CSS, JS ]
-tools:       [ Git, VS Code ]
-os:          [ whatever gets the job done ]
-```
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Nabinghimire0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=contribs" />
-&nbsp;&nbsp;
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nabinghimire0&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## Philosophy
-
-> *"The best time to start was yesterday. The second best time is now."*
-
-I took a break. Now I'm back. Commits incoming. 🔨
-
----
-
-<div align="center">
-
-*Open to interesting conversations — find me on GitHub.*
-
-**[↑ Nabinghimire0](https://github.com/Nabinghimire0)**
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
